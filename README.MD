@@ -5,7 +5,7 @@ Legend of Sonia is an action 3D video game where the goal is to survive as long 
 
 ![1](/screenshots/1.PNG)
 
-![2](/screenshots/2.PNG)
+![2](/screenshots/2.png)
 
 
 ###### Made By Yoav Saroya
